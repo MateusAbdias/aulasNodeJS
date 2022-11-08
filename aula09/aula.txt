@@ -1,0 +1,2 @@
+Podemos ler dados que o usuário digita utilizando o módulo readline
+É utilizado o método question 
